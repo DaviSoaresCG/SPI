@@ -49,13 +49,8 @@
     font-weight: bold;
     cursor: pointer;
     margin-top: 20px;
-    transition: all 0.3s ease;
 }
 
-.submit-btn:hover {
-    background-color: #333333;
-    border-color: #333333;
-}
 
 .form-divider {
     border-top: 1px solid #ddd;
